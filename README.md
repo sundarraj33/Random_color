@@ -1,5 +1,5 @@
 # Random Color Generated
-Welcome to the Random Color Generator! This project is a simple yet powerful tool that generates random colors for use in web design, graphic design, and other creative projects. Whether you're looking for inspiration or need a quick way to get a color for your project, this generator has you covered.
+### Welcome to the Random Color Generator! This project is a simple yet powerful tool that generates random colors for use in web design, graphic design, and other creative projects. Whether you're looking for inspiration or need a quick way to get a color for your project, this generator has you covered.
 
 ---
 
@@ -7,8 +7,8 @@ Welcome to the Random Color Generator! This project is a simple yet powerful too
 - ### Simple and intuitive design makes it easy to generate and use colors.
 ---
 ![image](https://github.com/sundarraj33/Random_color/assets/64121348/99fb742e-45b5-4742-abc2-e5ae8c5c6898)
-- Generate random colors with a single click.
+- ### Generate random colors with a single click.
 ---
 ![image](https://github.com/sundarraj33/Random_color/assets/64121348/9bf2982b-59ef-4162-a8af-76bce6e2a821)
-- Easily copy the color code to your clipboard for quick use.
+- ### Easily copy the color code to your clipboard for quick use.
 ---
