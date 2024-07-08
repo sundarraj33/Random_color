@@ -4,7 +4,7 @@ Welcome to the Random Color Generator! This project is a simple yet powerful too
 ---
 
 ![image](https://github.com/sundarraj33/Random_color/assets/64121348/8f362303-364a-4d20-aff3-04d45cdb48a4)
-- Simple and intuitive design makes it easy to generate and use colors.
+### Simple and intuitive design makes it easy to generate and use colors.
 ---
 ![image](https://github.com/sundarraj33/Random_color/assets/64121348/99fb742e-45b5-4742-abc2-e5ae8c5c6898)
 - Generate random colors with a single click.
