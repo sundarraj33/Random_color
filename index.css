@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+.main{
+    height: 100vh;
+    width: 100%;  
+    display: flex;   
+    justify-content: center;               
+}
+.box{
+    display: flex;
+    width: 400px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto 0;
+    background-color: black;
+    border-radius : 5px;
+}
+.color_box{
+    width: 380px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 8px;
+    background-color: #CE076D;
+}
+.code_box1{
+    width: 90%;    
+    background-color: black;
+    margin: 20px;
+    padding: 10px;
+    border-radius : 8px 8px 8px 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;             
+}
+#color_random{
+    color: black;
+    border : 0;
+    outline: none;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;    
+    font-style: normal;
+    font-size : 20px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+.min_box{
+    height: 35px;
+    width: 35px;
+    padding: 3px;
+    margin : 5px;
+    border-radius : 90%;
+    background-color : #CE076D;
+}
+.options{
+    width: 95%;    
+    display: flex;
+    margin: 3px 0px 20px 0px;
+    flex-direction: row;
+    justify-content: space-around;    
+}
+.options button{    
+    height: 40px;
+    width: 45%;    
+    justify-content: space-between;    
+}
+.copy_button{
+    background-color: red;
+    color: white;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;    
+    font-style: normal;
+    font-size : 20px;
+    font-weight: 700;
+    border-radius: 10px 10px 10px 10px;
+    border-color: gray;
+    box-shadow: 2px 2px 2px black;
+    letter-spacing: 1px;    
+}
+.genarate_button{
+    background-color: blue;
+    color: white;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;    
+    font-style: normal;
+    font-size : 20px;
+    font-weight: 700;
+    border-radius: 10px 10px 10px 10px;    
+    letter-spacing: 1px;    
+}
+.title{    
+    color: white;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;    
+    font-style: normal;
+    font-size : 40px;
+    padding: 5px;
+    font-weight: 700;
+    margin: 10px;
+    border-radius: 10px 10px 10px 10px;
+    letter-spacing: 1px;    
+}
+.notification_box{
+    background-color: #88E851;
+    color :black;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;    
+    font-style: normal;
+    font-size : 20px;
+    font-weight: 700;
+    width: 100%;
+    height : 30px; 
+    position: relative;
+    top:0px;
+    text-align:center; 
+    /* display: none; */
+}

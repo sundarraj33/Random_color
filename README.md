@@ -1,1 +1,1 @@
-# Random_color
+# Random Color Generated
